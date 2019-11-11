@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvanVwYXJwIiwiaWQiOiI1ZDljMjQ4MWY0NDI2ZjA3N2U0NmEzZDciLCJpYXQiOjE1NzE3NTI2OTB9.ZK1NQqRdlhdKAA-8uY4nAXWtbess3TXKWz6rlHCeGwI
+
+{
+    "author": "joni p.",
+    "title": "kokeillaan kommentteja3",
+    "url": "http://example.com",
+    "userId": "5d9c2481f4426f077e46a3d7",
+}

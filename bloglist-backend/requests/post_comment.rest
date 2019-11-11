@@ -1,0 +1,6 @@
+POST http://localhost:3003/api/blogs/5d9c276fe53c0707cc322c09/comments
+content-type: application/json
+
+{
+    "content": "tosi hyvä bloki -jarto"
+}
