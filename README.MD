@@ -6,4 +6,4 @@ Voit kokeilla sovellusta [täällä](https://desolate-castle-37822.herokuapp.com
 käyttäjätunnus: jojuparp <br>
 salasana: salasana
 
-[kuva]()
+[kuva](https://github.com/jojuparp/bloglist/blob/master/kuvat/bloglist.png)
